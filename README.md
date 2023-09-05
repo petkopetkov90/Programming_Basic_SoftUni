@@ -1,2 +1,3 @@
 # Programming_Basic_SoftUni
-C# Programming Basic - SoftUni.
+
+C# Programming Basic - _**SoftUni**_.
